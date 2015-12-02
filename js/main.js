@@ -7,13 +7,8 @@ $(document).ready(function(){
 	loadApp()
 	calculate()
 	renderCalculate()
-	// intro()
 })
 
-
-function intro () {
-	$('.intro').delay(1000).slideDown();
-}
 
 function renderCell () {
 	for (var i=1; i<10;i++){
@@ -51,7 +46,6 @@ function render () {
 function renderMark () {
 	var cell="",value;
 	$('.page-container').map(function(i,v){
-		// value = Math.pow(2,i);
 		i++;
 		var cell='<div class="mark"><span class="key">'+i+'</span></div>'
 		$(v).after(cell);
@@ -71,19 +65,22 @@ function loadApp() {
 
 function renderCalculate () {
 	for (var i=1; i<10;i++){
-		var cell = '<li>'+i+'<input type="checkbox" value="'+Math.pow(2,i-1)+'"></li>'
+		var cell = '<li><input type="checkbox" value="'+Math.pow(2,i-1)+'" id="list'+i+'"><label for="list'+i+'">'+i+'</label></li>'
 		$('.calculate ul').append(cell);
 	}
 	$('.calculate ul').append('<li class="submit">送出</li>');
 }
 
 function calculate () {
-	var total=0;
-	$('body').on('click','.submit', function(){
+	$('body').on('click','.submit, .close', function(){
+		var total=0;
 		$('input:checked').map(function(index,value){
 			console.log(value);
 			total = total + Number($(value).val()); 			
 		})
-		alert(total);
+		$('.mask').toggleClass('active');
+		$('.result').toggleClass('active');
+		$('.result-content').html("<h1>你心中的數字是</h1>"+total);
 	})
+
 }
