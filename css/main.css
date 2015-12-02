@@ -1,0 +1,1438 @@
+.num-1 {
+  background-color: #fcf29b;
+  color: #666;
+}
+
+.num-2 {
+  background-color: #fcf198;
+  color: #666;
+}
+
+.num-3 {
+  background-color: #fcf196;
+  color: #666;
+}
+
+.num-4 {
+  background-color: #fcf193;
+  color: #666;
+}
+
+.num-5 {
+  background-color: #fcf191;
+  color: #666;
+}
+
+.num-6 {
+  background-color: #fcf08e;
+  color: #666;
+}
+
+.num-7 {
+  background-color: #fcf08c;
+  color: #666;
+}
+
+.num-8 {
+  background-color: #fcf089;
+  color: #666;
+}
+
+.num-9 {
+  background-color: #fcef87;
+  color: #666;
+}
+
+.num-10 {
+  background-color: #fcef84;
+  color: #666;
+}
+
+.num-11 {
+  background-color: #fbef82;
+  color: #666;
+}
+
+.num-12 {
+  background-color: #fbee7f;
+  color: #666;
+}
+
+.num-13 {
+  background-color: #fbee7d;
+  color: #666;
+}
+
+.num-14 {
+  background-color: #fbee7a;
+  color: #666;
+}
+
+.num-15 {
+  background-color: #fbee78;
+  color: #666;
+}
+
+.num-16 {
+  background-color: #fbed75;
+  color: #666;
+}
+
+.num-17 {
+  background-color: #fbed73;
+  color: #666;
+}
+
+.num-18 {
+  background-color: #fbed70;
+  color: #666;
+}
+
+.num-19 {
+  background-color: #fbec6e;
+  color: #666;
+}
+
+.num-20 {
+  background-color: #fbec6b;
+  color: #666;
+}
+
+.num-21 {
+  background-color: #fbea6b;
+  color: #666;
+}
+
+.num-22 {
+  background-color: #fae76b;
+  color: #666;
+}
+
+.num-23 {
+  background-color: #fae56b;
+  color: #666;
+}
+
+.num-24 {
+  background-color: #fae26b;
+  color: #666;
+}
+
+.num-25 {
+  background-color: #f9e06b;
+  color: #666;
+}
+
+.num-26 {
+  background-color: #f9de6b;
+  color: #666;
+}
+
+.num-27 {
+  background-color: #f9db6b;
+  color: #666;
+}
+
+.num-28 {
+  background-color: #f8d96b;
+  color: #666;
+}
+
+.num-29 {
+  background-color: #f8d66b;
+  color: #666;
+}
+
+.num-30 {
+  background-color: #f8d46b;
+  color: #666;
+}
+
+.num-31 {
+  background-color: #f7d26b;
+  color: #666;
+}
+
+.num-32 {
+  background-color: #f7cf6b;
+  color: #666;
+}
+
+.num-33 {
+  background-color: #f6cd6b;
+  color: #666;
+}
+
+.num-34 {
+  background-color: #f6ca6b;
+  color: #666;
+}
+
+.num-35 {
+  background-color: #f6c86b;
+  color: #666;
+}
+
+.num-36 {
+  background-color: #f5c66b;
+  color: #666;
+}
+
+.num-37 {
+  background-color: #f5c36b;
+  color: #666;
+}
+
+.num-38 {
+  background-color: #f5c16b;
+  color: #666;
+}
+
+.num-39 {
+  background-color: #f4be6b;
+  color: #666;
+}
+
+.num-40 {
+  background-color: #f4bc6b;
+  color: #666;
+}
+
+.num-41 {
+  background-color: #f4ba6b;
+  color: #fff;
+}
+
+.num-42 {
+  background-color: #f3b76b;
+  color: #fff;
+}
+
+.num-43 {
+  background-color: #f3b56b;
+  color: #fff;
+}
+
+.num-44 {
+  background-color: #f2b26b;
+  color: #fff;
+}
+
+.num-45 {
+  background-color: #f2b06b;
+  color: #fff;
+}
+
+.num-46 {
+  background-color: #f1ad6b;
+  color: #fff;
+}
+
+.num-47 {
+  background-color: #f1ab6b;
+  color: #fff;
+}
+
+.num-48 {
+  background-color: #f0a86b;
+  color: #fff;
+}
+
+.num-49 {
+  background-color: #f0a66b;
+  color: #fff;
+}
+
+.num-50 {
+  background-color: #f0a46b;
+  color: #fff;
+}
+
+.num-51 {
+  background-color: #efa16b;
+  color: #fff;
+}
+
+.num-52 {
+  background-color: #ef9f6b;
+  color: #fff;
+}
+
+.num-53 {
+  background-color: #ee9c6b;
+  color: #fff;
+}
+
+.num-54 {
+  background-color: #ee9a6b;
+  color: #fff;
+}
+
+.num-55 {
+  background-color: #ed976b;
+  color: #fff;
+}
+
+.num-56 {
+  background-color: #ed956b;
+  color: #fff;
+}
+
+.num-57 {
+  background-color: #ec926b;
+  color: #fff;
+}
+
+.num-58 {
+  background-color: #ec906b;
+  color: #fff;
+}
+
+.num-59 {
+  background-color: #eb8d6b;
+  color: #fff;
+}
+
+.num-60 {
+  background-color: #eb8b6b;
+  color: #fff;
+}
+
+.num-61 {
+  background-color: #ea886b;
+  color: #fff;
+}
+
+.num-62 {
+  background-color: #ea856b;
+  color: #fff;
+}
+
+.num-63 {
+  background-color: #e9836b;
+  color: #fff;
+}
+
+.num-64 {
+  background-color: #e9806b;
+  color: #fff;
+}
+
+.num-65 {
+  background-color: #e87d6b;
+  color: #fff;
+}
+
+.num-66 {
+  background-color: #e87a6b;
+  color: #fff;
+}
+
+.num-67 {
+  background-color: #e7776b;
+  color: #fff;
+}
+
+.num-68 {
+  background-color: #e7756b;
+  color: #fff;
+}
+
+.num-69 {
+  background-color: #e6726b;
+  color: #fff;
+}
+
+.num-70 {
+  background-color: #e66f6b;
+  color: #fff;
+}
+
+.num-71 {
+  background-color: #e56c6b;
+  color: #fff;
+}
+
+.num-72 {
+  background-color: #e4696b;
+  color: #fff;
+}
+
+.num-73 {
+  background-color: #e4676b;
+  color: #fff;
+}
+
+.num-74 {
+  background-color: #e3646b;
+  color: #fff;
+}
+
+.num-75 {
+  background-color: #e3616b;
+  color: #fff;
+}
+
+.num-76 {
+  background-color: #e25e6b;
+  color: #fff;
+}
+
+.num-77 {
+  background-color: #e25b6b;
+  color: #fff;
+}
+
+.num-78 {
+  background-color: #e1596b;
+  color: #fff;
+}
+
+.num-79 {
+  background-color: #e1566b;
+  color: #fff;
+}
+
+.num-80 {
+  background-color: #e0536b;
+  color: #fff;
+}
+
+.num-81 {
+  background-color: #e0516b;
+  color: #fff;
+}
+
+.num-82 {
+  background-color: #df506b;
+  color: #fff;
+}
+
+.num-83 {
+  background-color: #df4e6b;
+  color: #fff;
+}
+
+.num-84 {
+  background-color: #de4c6b;
+  color: #fff;
+}
+
+.num-85 {
+  background-color: #de4a6c;
+  color: #fff;
+}
+
+.num-86 {
+  background-color: #dd496c;
+  color: #fff;
+}
+
+.num-87 {
+  background-color: #dd476c;
+  color: #fff;
+}
+
+.num-88 {
+  background-color: #dc456c;
+  color: #fff;
+}
+
+.num-89 {
+  background-color: #dc436c;
+  color: #fff;
+}
+
+.num-90 {
+  background-color: #db426c;
+  color: #fff;
+}
+
+.num-91 {
+  background-color: #db406c;
+  color: #fff;
+}
+
+.num-92 {
+  background-color: #da3e6c;
+  color: #fff;
+}
+
+.num-93 {
+  background-color: #da3c6c;
+  color: #fff;
+}
+
+.num-94 {
+  background-color: #d93b6c;
+  color: #fff;
+}
+
+.num-95 {
+  background-color: #d9396d;
+  color: #fff;
+}
+
+.num-96 {
+  background-color: #d8376d;
+  color: #fff;
+}
+
+.num-97 {
+  background-color: #d8356d;
+  color: #fff;
+}
+
+.num-98 {
+  background-color: #d7346d;
+  color: #fff;
+}
+
+.num-99 {
+  background-color: #d7326d;
+  color: #fff;
+}
+
+.num-100 {
+  background-color: #d6306d;
+  color: #fff;
+}
+
+.num-101 {
+  background-color: #d3306d;
+  color: #fff;
+}
+
+.num-102 {
+  background-color: #d1306d;
+  color: #fff;
+}
+
+.num-103 {
+  background-color: #ce2f6c;
+  color: #fff;
+}
+
+.num-104 {
+  background-color: #cc2f6c;
+  color: #fff;
+}
+
+.num-105 {
+  background-color: #c92f6c;
+  color: #fff;
+}
+
+.num-106 {
+  background-color: #c72f6c;
+  color: #fff;
+}
+
+.num-107 {
+  background-color: #c42f6b;
+  color: #fff;
+}
+
+.num-108 {
+  background-color: #c22e6b;
+  color: #fff;
+}
+
+.num-109 {
+  background-color: #bf2e6b;
+  color: #fff;
+}
+
+.num-110 {
+  background-color: #bd2e6b;
+  color: #fff;
+}
+
+.num-111 {
+  background-color: #ba2e6a;
+  color: #fff;
+}
+
+.num-112 {
+  background-color: #b72e6a;
+  color: #fff;
+}
+
+.num-113 {
+  background-color: #b52d6a;
+  color: #fff;
+}
+
+.num-114 {
+  background-color: #b22d6a;
+  color: #fff;
+}
+
+.num-115 {
+  background-color: #b02d69;
+  color: #fff;
+}
+
+.num-116 {
+  background-color: #ad2d69;
+  color: #fff;
+}
+
+.num-117 {
+  background-color: #ab2d69;
+  color: #fff;
+}
+
+.num-118 {
+  background-color: #a82c69;
+  color: #fff;
+}
+
+.num-119 {
+  background-color: #a62c68;
+  color: #fff;
+}
+
+.num-120 {
+  background-color: #a32c68;
+  color: #fff;
+}
+
+.num-121 {
+  background-color: #a12c68;
+  color: #fff;
+}
+
+.num-122 {
+  background-color: #9e2c68;
+  color: #fff;
+}
+
+.num-123 {
+  background-color: #9c2c68;
+  color: #fff;
+}
+
+.num-124 {
+  background-color: #992c67;
+  color: #fff;
+}
+
+.num-125 {
+  background-color: #972c67;
+  color: #fff;
+}
+
+.num-126 {
+  background-color: #942b67;
+  color: #fff;
+}
+
+.num-127 {
+  background-color: #922b67;
+  color: #fff;
+}
+
+.num-128 {
+  background-color: #8f2b67;
+  color: #fff;
+}
+
+.num-129 {
+  background-color: #8d2b67;
+  color: #fff;
+}
+
+.num-130 {
+  background-color: #8b2b67;
+  color: #fff;
+}
+
+.num-131 {
+  background-color: #882b66;
+  color: #fff;
+}
+
+.num-132 {
+  background-color: #862b66;
+  color: #fff;
+}
+
+.num-133 {
+  background-color: #832b66;
+  color: #fff;
+}
+
+.num-134 {
+  background-color: #812b66;
+  color: #fff;
+}
+
+.num-135 {
+  background-color: #7e2b66;
+  color: #fff;
+}
+
+.num-136 {
+  background-color: #7c2a66;
+  color: #fff;
+}
+
+.num-137 {
+  background-color: #792a65;
+  color: #fff;
+}
+
+.num-138 {
+  background-color: #772a65;
+  color: #fff;
+}
+
+.num-139 {
+  background-color: #742a65;
+  color: #fff;
+}
+
+.num-140 {
+  background-color: #722a65;
+  color: #fff;
+}
+
+.num-141 {
+  background-color: #702a65;
+  color: #fff;
+}
+
+.num-142 {
+  background-color: #6d2a65;
+  color: #fff;
+}
+
+.num-143 {
+  background-color: #6b2965;
+  color: #fff;
+}
+
+.num-144 {
+  background-color: #682964;
+  color: #fff;
+}
+
+.num-145 {
+  background-color: #662964;
+  color: #fff;
+}
+
+.num-146 {
+  background-color: #642964;
+  color: #fff;
+}
+
+.num-147 {
+  background-color: #612964;
+  color: #fff;
+}
+
+.num-148 {
+  background-color: #5f2864;
+  color: #fff;
+}
+
+.num-149 {
+  background-color: #5c2864;
+  color: #fff;
+}
+
+.num-150 {
+  background-color: #5a2864;
+  color: #fff;
+}
+
+.num-151 {
+  background-color: #582863;
+  color: #fff;
+}
+
+.num-152 {
+  background-color: #552863;
+  color: #fff;
+}
+
+.num-153 {
+  background-color: #532763;
+  color: #fff;
+}
+
+.num-154 {
+  background-color: #502763;
+  color: #fff;
+}
+
+.num-155 {
+  background-color: #4e2763;
+  color: #fff;
+}
+
+.num-156 {
+  background-color: #4c2763;
+  color: #fff;
+}
+
+.num-157 {
+  background-color: #492762;
+  color: #fff;
+}
+
+.num-158 {
+  background-color: #472662;
+  color: #fff;
+}
+
+.num-159 {
+  background-color: #442662;
+  color: #fff;
+}
+
+.num-160 {
+  background-color: #422662;
+  color: #fff;
+}
+
+.num-161 {
+  background-color: #402662;
+  color: #fff;
+}
+
+.num-162 {
+  background-color: #3d2662;
+  color: #fff;
+}
+
+.num-163 {
+  background-color: #3b2661;
+  color: #fff;
+}
+
+.num-164 {
+  background-color: #382661;
+  color: #fff;
+}
+
+.num-165 {
+  background-color: #362661;
+  color: #fff;
+}
+
+.num-166 {
+  background-color: #342661;
+  color: #fff;
+}
+
+.num-167 {
+  background-color: #312660;
+  color: #fff;
+}
+
+.num-168 {
+  background-color: #2f2660;
+  color: #fff;
+}
+
+.num-169 {
+  background-color: #2c2660;
+  color: #fff;
+}
+
+.num-170 {
+  background-color: #2a2660;
+  color: #fff;
+}
+
+.num-171 {
+  background-color: #28255f;
+  color: #fff;
+}
+
+.num-172 {
+  background-color: #25255f;
+  color: #fff;
+}
+
+.num-173 {
+  background-color: #23255f;
+  color: #fff;
+}
+
+.num-174 {
+  background-color: #20255f;
+  color: #fff;
+}
+
+.num-175 {
+  background-color: #1e255e;
+  color: #fff;
+}
+
+.num-176 {
+  background-color: #1c255e;
+  color: #fff;
+}
+
+.num-177 {
+  background-color: #19255e;
+  color: #fff;
+}
+
+.num-178 {
+  background-color: #17255e;
+  color: #fff;
+}
+
+.num-179 {
+  background-color: #14255d;
+  color: #fff;
+}
+
+.num-180 {
+  background-color: #12255d;
+  color: #fff;
+}
+
+.num-181 {
+  background-color: #13285e;
+  color: #fff;
+}
+
+.num-182 {
+  background-color: #142a5f;
+  color: #fff;
+}
+
+.num-183 {
+  background-color: #152d61;
+  color: #fff;
+}
+
+.num-184 {
+  background-color: #163062;
+  color: #fff;
+}
+
+.num-185 {
+  background-color: #173363;
+  color: #fff;
+}
+
+.num-186 {
+  background-color: #183564;
+  color: #fff;
+}
+
+.num-187 {
+  background-color: #193865;
+  color: #fff;
+}
+
+.num-188 {
+  background-color: #1a3b67;
+  color: #fff;
+}
+
+.num-189 {
+  background-color: #1b3d68;
+  color: #fff;
+}
+
+.num-190 {
+  background-color: #1d4069;
+  color: #fff;
+}
+
+.num-191 {
+  background-color: #1e436a;
+  color: #fff;
+}
+
+.num-192 {
+  background-color: #1f456b;
+  color: #fff;
+}
+
+.num-193 {
+  background-color: #20486d;
+  color: #fff;
+}
+
+.num-194 {
+  background-color: #214b6e;
+  color: #fff;
+}
+
+.num-195 {
+  background-color: #224e6f;
+  color: #fff;
+}
+
+.num-196 {
+  background-color: #235070;
+  color: #fff;
+}
+
+.num-197 {
+  background-color: #245371;
+  color: #fff;
+}
+
+.num-198 {
+  background-color: #255673;
+  color: #fff;
+}
+
+.num-199 {
+  background-color: #265874;
+  color: #fff;
+}
+
+.num-200 {
+  background-color: #275b75;
+  color: #fff;
+}
+
+.num-201 {
+  background-color: #285e76;
+  color: #fff;
+}
+
+.num-202 {
+  background-color: #296077;
+  color: #fff;
+}
+
+.num-203 {
+  background-color: #2a6378;
+  color: #fff;
+}
+
+.num-204 {
+  background-color: #2b6679;
+  color: #fff;
+}
+
+.num-205 {
+  background-color: #2c697b;
+  color: #fff;
+}
+
+.num-206 {
+  background-color: #2d6b7c;
+  color: #fff;
+}
+
+.num-207 {
+  background-color: #2e6e7d;
+  color: #fff;
+}
+
+.num-208 {
+  background-color: #2f717e;
+  color: #fff;
+}
+
+.num-209 {
+  background-color: #30737f;
+  color: #fff;
+}
+
+.num-210 {
+  background-color: #327680;
+  color: #fff;
+}
+
+.num-211 {
+  background-color: #337981;
+  color: #fff;
+}
+
+.num-212 {
+  background-color: #347b82;
+  color: #fff;
+}
+
+.num-213 {
+  background-color: #357e83;
+  color: #fff;
+}
+
+.num-214 {
+  background-color: #368184;
+  color: #fff;
+}
+
+.num-215 {
+  background-color: #378486;
+  color: #fff;
+}
+
+.num-216 {
+  background-color: #388687;
+  color: #fff;
+}
+
+.num-217 {
+  background-color: #398988;
+  color: #fff;
+}
+
+.num-218 {
+  background-color: #3a8c89;
+  color: #fff;
+}
+
+.num-219 {
+  background-color: #3b8e8a;
+  color: #fff;
+}
+
+.num-220 {
+  background-color: #3c918b;
+  color: #fff;
+}
+
+.num-221 {
+  background-color: #3d948c;
+  color: #fff;
+}
+
+.num-222 {
+  background-color: #3e968d;
+  color: #fff;
+}
+
+.num-223 {
+  background-color: #3f998e;
+  color: #fff;
+}
+
+.num-224 {
+  background-color: #409c90;
+  color: #fff;
+}
+
+.num-225 {
+  background-color: #429e91;
+  color: #fff;
+}
+
+.num-226 {
+  background-color: #43a192;
+  color: #fff;
+}
+
+.num-227 {
+  background-color: #44a493;
+  color: #fff;
+}
+
+.num-228 {
+  background-color: #45a694;
+  color: #fff;
+}
+
+.num-229 {
+  background-color: #46a995;
+  color: #fff;
+}
+
+.num-230 {
+  background-color: #47ac97;
+  color: #fff;
+}
+
+.num-231 {
+  background-color: #48ae98;
+  color: #fff;
+}
+
+.num-232 {
+  background-color: #49b199;
+  color: #fff;
+}
+
+.num-233 {
+  background-color: #4ab39a;
+  color: #fff;
+}
+
+.num-234 {
+  background-color: #4bb69b;
+  color: #fff;
+}
+
+.num-235 {
+  background-color: #4db99c;
+  color: #fff;
+}
+
+.num-236 {
+  background-color: #4ebb9d;
+  color: #fff;
+}
+
+.num-237 {
+  background-color: #4fbe9f;
+  color: #fff;
+}
+
+.num-238 {
+  background-color: #50c1a0;
+  color: #fff;
+}
+
+.num-239 {
+  background-color: #51c3a1;
+  color: #fff;
+}
+
+.num-240 {
+  background-color: #52c6a2;
+  color: #fff;
+}
+
+.num-241 {
+  background-color: #53c9a3;
+  color: #fff;
+}
+
+.num-242 {
+  background-color: #54cba4;
+  color: #fff;
+}
+
+.num-243 {
+  background-color: #55cea5;
+  color: #fff;
+}
+
+.num-244 {
+  background-color: #56d0a6;
+  color: #fff;
+}
+
+.num-245 {
+  background-color: #57d3a7;
+  color: #fff;
+}
+
+.num-246 {
+  background-color: #58d5a8;
+  color: #fff;
+}
+
+.num-247 {
+  background-color: #59d8a9;
+  color: #fff;
+}
+
+.num-248 {
+  background-color: #5adaaa;
+  color: #fff;
+}
+
+.num-249 {
+  background-color: #5bddab;
+  color: #fff;
+}
+
+.num-250 {
+  background-color: #5cdfac;
+  color: #fff;
+}
+
+.num-251 {
+  background-color: #5de2ad;
+  color: #fff;
+}
+
+.num-252 {
+  background-color: #5ee4ae;
+  color: #fff;
+}
+
+.num-253 {
+  background-color: #5fe7af;
+  color: #fff;
+}
+
+.num-254 {
+  background-color: #60e9b0;
+  color: #fff;
+}
+
+.num-255 {
+  background-color: #61ecb1;
+  color: #fff;
+}
+
+.num-256 {
+  background-color: #62eeb2;
+  color: #fff;
+}
+
+.num-257 {
+  background-color: #63f1b3;
+  color: #fff;
+}
+
+.num-258 {
+  background-color: #64f3b4;
+  color: #fff;
+}
+
+.num-259 {
+  background-color: #65f6b5;
+  color: #fff;
+}
+
+.num-260 {
+  background-color: #66f8b6;
+  color: #fff;
+}
+
+.intro {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: 0.7;
+  z-index: 200;
+  display: none;
+}
+
+.intro .content {
+  width: 600px;
+  height: 400px;
+  background-color: #FFF;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 1;
+}
+
+.calculate {
+  position: absolute;
+  right: 5px;
+  top: 300px;
+  z-index: 100;
+  color: #000;
+}
+
+.submit {
+  cursor: pointer;
+}
+
+.page-container span {
+  display: block;
+  float: left;
+  text-align: center;
+  line-height: 35px;
+  height: 35px;
+  width: 35px;
+}
+
+.page-container {
+  position: absolute;
+  left: 10px;
+  top: 70px;
+  width: 560px;
+}
+
+.mark {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mark span {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  color: #6A9414;
+  font-size: 60px;
+  border: 1px solid #6A9414;
+}
+
+.mark .key {
+  border-radius: 50%;
+}
+
+body {
+  overflow: hidden;
+  background-color: #fcfcfc;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.flipbook-viewport {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.flipbook-viewport .container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: auto;
+}
+
+.flipbook-viewport .flipbook {
+  width: 1160px;
+  height: 740px;
+  left: -580px;
+  top: -370px;
+}
+
+.flipbook-viewport .page {
+  width: 600px;
+  height: 740px;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.flipbook .page {
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  -ms-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  -o-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.flipbook-viewport .page img {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin: 0;
+}
+
+.flipbook-viewport .shadow {
+  -webkit-transition: -webkit-box-shadow 0.5s;
+  -moz-transition: -moz-box-shadow 0.5s;
+  -o-transition: -webkit-box-shadow 0.5s;
+  -ms-transition: -ms-box-shadow 0.5s;
+  -webkit-box-shadow: 0 0 20px #ccc;
+  -moz-box-shadow: 0 0 20px #ccc;
+  -o-box-shadow: 0 0 20px #ccc;
+  -ms-box-shadow: 0 0 20px #ccc;
+  box-shadow: 0 0 20px #ccc;
+}
