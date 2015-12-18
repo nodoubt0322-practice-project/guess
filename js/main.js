@@ -55,7 +55,7 @@ function renderMark () {
 function loadApp() {
 	$('.flipbook').turn({
 			width:1160,
-			height:740,
+			height:640,
 			elevation: 50,
 			gradients: true,
 			autoCenter: true,
@@ -68,7 +68,7 @@ function renderCalculate () {
 		var cell = '<li><input type="checkbox" value="'+Math.pow(2,i-1)+'" id="list'+i+'"><label for="list'+i+'">'+i+'</label></li>'
 		$('.calculate ul').append(cell);
 	}
-	$('.calculate ul').append('<li class="submit">送出</li>');
+	$('.calculate ul').append('<li class="submit">SEND</li>');
 }
 
 function calculate () {
@@ -80,7 +80,7 @@ function calculate () {
 		})
 		$('.mask').toggleClass('active');
 		$('.result').toggleClass('active');
-		$('.result-content').html("<h1>你心中的數字是</h1>"+total);
+		$('.result-content').html('YOU NUMBER IS '+total);
 	})
 
 }

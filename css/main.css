@@ -1328,7 +1328,8 @@ body {
 .calculate {
   position: absolute;
   right: 5px;
-  top: 300px;
+  top: 50%;
+  transform: translateY(-50%);
   z-index: 99;
   color: #000;
 }
@@ -1343,7 +1344,7 @@ body {
   padding: 5px 10px;
   margin-top: 20px;
   position: relative;
-  font-family: 'Open Sans', sans-serif;
+  right: 10px;
   font-size: 12px;
   text-decoration: none;
   color: #fff;
@@ -1387,8 +1388,8 @@ body {
   display: block;
   float: left;
   text-align: center;
-  line-height: 35px;
-  height: 35px;
+  line-height: 30px;
+  height: 30px;
   width: 35px;
 }
 
@@ -1445,14 +1446,14 @@ body {
 
 .flipbook-viewport .flipbook {
   width: 1160px;
-  height: 740px;
+  height: 640px;
   left: -580px;
-  top: -370px;
+  top: -320px;
 }
 
 .flipbook-viewport .page {
   width: 600px;
-  height: 740px;
+  height: 640px;
   background-color: white;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -1495,7 +1496,7 @@ body {
   right: 0;
   bottom: 0;
   z-index: 100;
-  background-color: #000;
+  background-color: #2B3D4F;
   display: none;
   opacity: 0;
   transition: all 0.5s;
@@ -1503,52 +1504,47 @@ body {
 
 .mask.active {
   display: block;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 .result {
-  width: 700px;
-  height: 500px;
-  border-radius: 5px;
-  background-color: #fff;
+  width: 125%;
+  height: 160px;
+  background-color: rgba(255, 255, 255, 0.4);
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%) scale(1);
   transition: all 0.5s;
-  z-index: 101;
   opacity: 0;
-  color: #000;
-  padding: 20px;
+  overflow: hidden;
 }
 
 .result.active {
-  width: 500px;
-  height: 300px;
+  z-index: 101;
+  transform: translate(-50%, -50%) scale(0.8);
   opacity: 1;
 }
 
 .result-content {
+  color: #fff;
   text-align: center;
-  font-size: 36px;
-  line-height: 2em;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  font-size: 96px;
+  text-shadow: 2px 2px #2c3e50;
+  padding: 30px 0;
 }
 
 .close {
   position: absolute;
-  right: 10px;
-  top: 10px;
-  width: 20px;
-  height: 20px;
+  right: 20px;
+  top: 20px;
+  width: 30px;
+  height: 30px;
 }
 
 .close span {
   display: inline-block;
-  width: 20px;
+  width: 30px;
   height: 4px;
   position: absolute;
   background-color: #000;
@@ -1556,24 +1552,20 @@ body {
 
 .result .close span:nth-child(1) {
   transform: rotate(0deg);
-  border-radius: 0%;
   transition: all 0.3s;
 }
 
 .result .close span:nth-child(2) {
   transform: rotate(0deg);
-  border-radius: 0%;
   transition: all 0.3s;
 }
 
 .result.active .close span:nth-child(1) {
   transform: rotate(45deg);
-  border-radius: 50%;
 }
 
 .result.active .close span:nth-child(2) {
   transform: rotate(135deg);
-  border-radius: 50%;
 }
 
 label {
