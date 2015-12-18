@@ -36,28 +36,22 @@ body {
 }
 .intro {
   position: absolute;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
-  background-color: #000;
-  opacity:0.7;
-  z-index:200;
-  display: none; 
-}
-
-.intro .content {
-  width: 600px;
-  height: 400px;
-  background-color: #FFF;
-  position: absolute;
   top:50%;
-  left:50%;
-  transform:translate(-50%,-50%);
-  opacity:1;
+  transform: translateY(-50%);
+  padding:30px 200px; 
+  line-height:1.5em; 
+  background-color: rgba(255, 255, 255, 0.4);
+  color: #fff;
+  z-index:101;
+  display:none;
+  font-size: 24px;  
 }
-
-
+.warning {
+  color: #A00; 
+}
+.intro.active {
+  display:block; 
+}
 .calculate {
   position:absolute;
   right:5px;
@@ -71,7 +65,7 @@ body {
   height: 42px
 }
 
-.calculate li.submit{
+.calculate li.submit, .calculate li.tip{
     cursor:pointer; 
     background-color: #3bb3e0;
     padding: 5px 10px;
@@ -84,11 +78,12 @@ body {
     background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(44,160,202)), color-stop(1, rgb(62,184,229)) );
     box-shadow: inset 0px 1px 0px #7fd2f1, 0px 6px 0px #156785;
     border-radius: 5px;
-    height:initial; 
+    height:initial;
+    text-align: center; 
 }
 
 
-.submit::before {
+.submit::before, .tip::before {
     background-color: rgba(7, 34, 57, 0.59);
     content: "";
     display: block;
@@ -105,7 +100,7 @@ body {
     box-shadow: 0px 1px 0px #fff;
 }
 
-.submit:active {
+.submit:active, .tip:active {
     color: #156785;
     text-shadow: 0px 1px 1px rgba(255,255,255,0.3);
     background: rgb(44,160,202);
@@ -113,7 +108,7 @@ body {
     top: 7px;
 }
 
-.submit:active::before {
+.submit:active::before, .tip:active::before {
     top: -2px;
     height:120%; 
 }
@@ -269,6 +264,7 @@ body{
   top: 20px;  
   width: 30px;
   height: 30px;
+  cursor: pointer;
 }
 
 .close span {
@@ -295,6 +291,12 @@ body{
   transform:rotate(135deg);
 }
 
+.intro .close span:nth-child(1) {
+  transform:rotate(45deg);
+}
+.intro .close span:nth-child(2) {
+  transform:rotate(135deg);
+}
 
 label {
     position: relative;

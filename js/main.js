@@ -7,6 +7,7 @@ $(document).ready(function(){
 	loadApp()
 	calculate()
 	renderCalculate()
+	intro()
 })
 
 
@@ -68,11 +69,11 @@ function renderCalculate () {
 		var cell = '<li><input type="checkbox" value="'+Math.pow(2,i-1)+'" id="list'+i+'"><label for="list'+i+'">'+i+'</label></li>'
 		$('.calculate ul').append(cell);
 	}
-	$('.calculate ul').append('<li class="submit">SEND</li>');
+	$('.calculate ul').append('<li class="submit">SEND</li><li class="tip">TIP</li>');
 }
 
 function calculate () {
-	$('body').on('click','.submit, .close', function(){
+	$('body').on('click','.submit, .result .close', function(){
 		var total=0;
 		$('input:checked').map(function(index,value){
 			console.log(value);
@@ -82,5 +83,15 @@ function calculate () {
 		$('.result').toggleClass('active');
 		$('.result-content').html('YOU NUMBER IS '+total);
 	})
+}
 
+function intro(){
+		var mask = $('.mask'),
+				intro = $('.intro');
+		mask.addClass('active');
+		intro.addClass('active');	
+	$('body').on('click','.tip, .intro .close', function(){
+		mask.toggleClass('active');
+		intro.toggleClass('active');
+	})
 }
